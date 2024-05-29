@@ -4,6 +4,10 @@ config.php
 *_log
 img
 img/*
+api
+api/*
+vendor
+vendor/*
 *.sh
 *.code-workspace
 work
